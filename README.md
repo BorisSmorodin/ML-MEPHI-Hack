@@ -6,7 +6,7 @@
 - slides - презентация
 ## Состав команды
 Теги взяты из Пачки магистратуры
-- Дарья Акимова @akimdar - Data Analust
+- Дарья Акимова @akimdar - Data Analyst
 - Марина Дубровина @mainarel - Data Analyst
 - Анна Ларькина @laawest007 - Data Analyst
 - Александра Чиж @sandra.chig - Data Analyst
